@@ -56,7 +56,26 @@ Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database
 ## 📁 Project Structure
 
 ```
-Blood-Bank-Management-System/ │ ├── src/ │ ├── com.bbms.dao/ # DAO classes │ ├── com.bbms.model/ # JavaBeans │ └── com.bbms.servlet/ # Servlet Controllers │ ├── WebContent/ │ ├── css/ # Stylesheets │ ├── js/ # JavaScript files │ ├── images/ # UI Images │ ├── jsp/ # JSP Pages │ ├── WEB-INF/ │ │ └── web.xml # Deployment descriptor │ └── index.jsp # Landing Page │ ├── .classpath ├── .project └── README.md
+Blood-Bank-Management-System/
+├── src/
+│   └── com/
+│       └── bbms/
+│           ├── dao/           # DAO classes - Handles DB operations
+│           ├── model/         # JavaBeans - Data models (e.g., Donor, BloodRequest)
+│           └── servlet/       # Servlet Controllers - Handle HTTP requests
+│
+├── WebContent/
+│   ├── css/                   # Stylesheets for frontend
+│   ├── js/                    # JavaScript files
+│   ├── images/                # UI images (logos, icons, etc.)
+│   ├── jsp/                   # JSP Pages - Views/templates
+│   ├── WEB-INF/
+│   │   └── web.xml            # Deployment descriptor
+│   └── index.jsp              # Landing/Home page
+│
+├── .classpath                 # Eclipse classpath settings
+├── .project                   # Eclipse project metadata
+└── README.md                  # Project overview and instructions
 
 ```
 ---
