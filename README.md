@@ -80,7 +80,9 @@ Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database
  - List Of Donors
    
  ![Screenshot 2025-04-13 231708](https://github.com/user-attachments/assets/72a1dcda-25da-4f0b-b00a-f29c7a785adb)
-
+ 
+ ![Screenshot 2025-04-14 001906](https://github.com/user-attachments/assets/c8a9d4dd-d5ca-4b1d-a887-89ed3bb1551c)
+ 
  - Update Donor
    
  ![Screenshot 2025-04-13 231912](https://github.com/user-attachments/assets/620058f7-0496-41cb-99d3-acdad976f3e0)
@@ -99,8 +101,8 @@ Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database
 
  - Request For Blood
    
- ![Screenshot 2025-04-13 232236](https://github.com/user-attachments/assets/38abc6ea-98b0-49d6-9f86-c7f2995932ee)
-
+ ![Screenshot 2025-04-14 001832](https://github.com/user-attachments/assets/a580cf1c-971d-4abe-81b8-8d43458f9257)
+ 
  - Request Completed
    
  ![Screenshot 2025-04-13 232410](https://github.com/user-attachments/assets/9eb2ab2d-48d4-408a-b18e-b378e6b0618b)
