@@ -143,7 +143,7 @@ Blood-Bank-Management-System/
 
 ## 🔐 Default Admin Login
 
-![Screenshot 2025-04-13 235900](https://github.com/user-attachments/assets/dfbdd030-f671-4215-80d9-64402b396491)
+ ![Screenshot 2025-04-13 235900](https://github.com/user-attachments/assets/dfbdd030-f671-4215-80d9-64402b396491)
 
 --- 
 
