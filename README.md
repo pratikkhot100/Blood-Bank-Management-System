@@ -106,10 +106,6 @@ Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database
  - Request Completed
    
  ![Screenshot 2025-04-13 232410](https://github.com/user-attachments/assets/9eb2ab2d-48d4-408a-b18e-b378e6b0618b)
-
- - Logout
-   
- ![Screenshot 2025-04-13 225459](https://github.com/user-attachments/assets/48c1ab64-9992-4300-b2f9-6f5d3d0d9052)
  
 ---
 
@@ -206,4 +202,11 @@ Blood-Bank-Management-System/
  ![Screenshot 2025-04-13 235900](https://github.com/user-attachments/assets/dfbdd030-f671-4215-80d9-64402b396491)
 
 --- 
+ 
+## 📞 Contact Information
 
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
