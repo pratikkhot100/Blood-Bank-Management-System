@@ -44,7 +44,7 @@ Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database
 
 ---
 
-## 📸 Screenshots
+## 📸 Some Screenshots for the project:
 
 - Blood Donation Portal
   
