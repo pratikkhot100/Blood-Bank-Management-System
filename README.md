@@ -1,10 +1,5 @@
 # 🩸 Blood Bank Management System
 
-The Blood Bank Management System is developed to digitally manage and streamline the operations of blood donation and transfusion services. The main goal of this project is to create a user-friendly, reliable, and efficient web-based platform that connects blood donors with recipients and administrators. It aims to overcome the limitations of manual record-keeping by enabling secure data storage, easy donor registration, real-time blood availability checking, and request management. By automating critical tasks and reducing paperwork, the system ensures faster response in emergency situations, promotes voluntary blood donation, and helps maintain an accurate and accessible blood inventory — ultimately contributing to saving lives. ❤️
-
----
-
-## 🧾 About Blood Bank Management System
 The Blood Bank Management System is a dynamic web application designed to streamline and digitize the process of managing blood donations, donor records, and blood request handling. It serves as a centralized platform for administrators and donors, allowing for efficient tracking and management of blood inventory and donation history.
 
 Built using Java (JSP, Servlet) on the backend, integrated with a MySQL database via JDBC, and styled using HTML, CSS, JavaScript, Bootstrap, and JSTL, this system helps eliminate paperwork and manual errors while improving overall accessibility and transparency in blood bank operations.
