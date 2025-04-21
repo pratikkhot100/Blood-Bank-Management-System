@@ -150,7 +150,7 @@ Blood-Bank-Management-System/
 	 ```mysql -u <username> -p``` (Enter Password if asked)
 
  STEP 3: Copy paste and execute the MySQL Query from the following file:-
- - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Electronics-Store-ECommerce-Website/blob/main/mysql_database.sql)
+ - Run the Sql Query From this file: [MySQL Database](https://github.com/pratikkhot100/Blood-Bank-Management-System/blob/main/mysql_database.sql)
 
 ---
 
